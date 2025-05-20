@@ -1,27 +1,26 @@
-# Samuel Costa 
+Olá
+Meu nome é Samuel Costa, tenho 18 anos e estou no primeiro período do curso de Engenharia de Software na UNICEPLAC. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos, especialmente no universo da programação e do desenvolvimento de software. Dedico-me intensamente aos projetos que realizo, com o objetivo de construir uma base sólida de aprendizado.
 
-Olá! Eu sou o **Samuel Costa**, tenho 18 anos e estou no primeiro período do curso de **Engenharia de Software** na **UNICEPLAC**. Sou apaixonado por tecnologia e sempre busco aprender novas linguagens de programação e conceitos relacionados ao desenvolvimento de software. Estou focado em adquirir conhecimento sólido e me dedicar ao máximo nos projetos que realizo.
+## 💻 Atualmente estudando:
 
-Atualmente, estou aprendendo as linguagens:
-- **C**
-- **Java**
-- **HTML**
-- **Python**
+- **C** — Fundamentos da programação de baixo nível.
+- **Java** — Programação orientada a objetos, com foco em desenvolvimento de aplicações.
+- **HTML** — Estruturação de páginas web (front-end).
+- **Python** — Scripts, automações e introdução à inteligência artificial e análise de dados.
 
-Além disso, tenho **experiência** com ferramentas de produtividade como:
-- **Microsoft Word**: Criação e edição de documentos de texto, incluindo relatórios, dissertações e apresentações.
-- **Microsoft PowerPoint**: Criação de apresentações impactantes e dinâmicas.
-- **Microsoft Excel**: Manipulação de dados, criação de planilhas e uso de fórmulas para análise.
+## 📂 Ferramentas de Produtividade:
 
-📄 Possuo também **certificação em Inglês** com nível **Intermediário/Avançado**.
+- **Microsoft Word** — Criação e edição de documentos, relatórios e apresentações.
+- **Microsoft PowerPoint** — Desenvolvimento de apresentações impactantes.
+- **Microsoft Excel** — Manipulação de dados, criação de planilhas e uso de fórmulas para análise.
 
-Aqui você encontrará uma coleção de projetos que estou desenvolvendo como parte do meu aprendizado e também algumas experiências que compartilho ao longo do meu percurso acadêmico.
+## 🌐 Idiomas
 
-## 🚀 Tecnologias Utilizadas
+- **Inglês** — Nível Intermediário/Avançado (certificado).
 
-- **C**: Para entender os conceitos fundamentais da programação de baixo nível.
-- **Java**: Linguagem orientada a objetos, foco em desenvolvimento de aplicativos.
-- **HTML**: Estruturação de páginas web e front-end.
-- **Python**: Desenvolvimento de scripts e automações, além de explorar a área de dados e inteligência artificial.
+## 📸 Outras Experiências
+
+- **Fotografia Terrestre com Câmera** — Experiência em capturar imagens com atenção a composição, luz e narrativa visual.
+- **Fotografia Aérea com Drone** — Prática em realizar imagens e vídeos aéreos, com domínio de técnicas de pilotagem e enquadramento.
 
 
